@@ -4,7 +4,7 @@ Projeto criado como parte do desafio de Front-End do Módulo 2 do curso de Desen
 Neste projeto, foi desenvolvida uma plataforma de serviço de streaming, "CubosFlix", usando JavaScript, HTML, CSS e manipulação de DOM, além de consumir uma API. Esta aplicação possui:
 
 Visualização de filmes
-Paginação de filmes
-Busca de filmes
-"Filme do dia"
-Modal de filme
+<br>Paginação de filmes
+<br>Busca de filmes
+<br>"Filme do dia"
+<br>Modal de filme
